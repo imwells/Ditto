@@ -632,7 +632,39 @@
 		<Item English_Text = "Global HotKeys" ID = "83">全局热键</Item>
 		<Item English_Text = "Delete Clip Data" ID = "84">删除剪贴数据</Item>
 		<Item English_Text = "Replace Top Sticky Clip" ID = "85">替换置顶剪贴项</Item>
-        
+		
+        	//Added by Wells 22/09/25
+		<Item English_Text = "Prompt send to friend" ID = "86">提示发送给朋友</Item>
+		<Item English_Text = "Save copied file (cf_hdrop) contents into Ditto" ID = "87">将复制的CF_HDROP格式内容保存到 Ditto</Item>
+		<Item English_Text = "Toggle clipboard connection" ID = "88">切换剪贴板连接</Item>
+		<Item English_Text = "Move Selection Up" ID = "89">上移选择</Item>
+		<Item English_Text = "Move Selection Down" ID = "90">下移选择</Item>
+		<Item English_Text = "Toggle Description Word Wrap" ID = "91">切换描述自动换行</Item>
+		<Item English_Text = "Apply Last Search" ID = "92">应用上次搜索</Item>
+		<Item English_Text = "Toggle Search Method" ID = "93">切换搜索方法</Item>
+		<Item English_Text = "Move Clip Last" ID = "95">移动到最后</Item>
+		<Item English_Text = "Paste, Don't Change Clip Order" ID = "96">粘贴，不更改剪贴顺序</Item>
+		<Item English_Text = "Paste, Trim White Space" ID = "97">粘贴，去掉空白</Item>
+		<Item English_Text = "Set Transparency None" ID = "98">透明度0%</Item>
+		<Item English_Text = "Set Transparency 5%" ID = "99">透明度5%</Item>
+		<Item English_Text = "Set Transparency 10%" ID = "100">透明度10%</Item>
+		<Item English_Text = "Set Transparency 15%" ID = "101">透明度15%</Item>
+		<Item English_Text = "Set Transparency 20%" ID = "102">透明度20%</Item>
+		<Item English_Text = "Set Transparency 25%" ID = "103">透明度25%</Item>
+		<Item English_Text = "Set Transparency 30%" ID = "104">透明度30%</Item>
+		<Item English_Text = "Set Transparency 35%" ID = "105">透明度35%</Item>
+		<Item English_Text = "Set Transparency 40%" ID = "106">透明度40%</Item>
+		<Item English_Text = "Transparency on/off switching" ID = "107">透明度开关</Item>
+		<Item English_Text = "Increase Transparency %" ID = "108">透明度/増加</Item>
+		<Item English_Text = "Decrease Transparency %" ID = "109">透明度/减少</Item>
+		<Item English_Text = "EMail, Content In Body" ID = "110">Email正文内容</Item>
+		<Item English_Text = "EMail, Clip Export As Attachment" ID = "111">Email剪贴导出成附件</Item>
+		<Item English_Text = "EMail, Content As Attachment" ID = "112">Email正文作为附件</Item>
+		<Item English_Text = "Gmail" ID = "113">Gmail</Item>
+		<Item English_Text = "Slugify" ID = "114">粘贴/转换空格为连字符</Item>
+		<Item English_Text = "Invert Case" ID = "115">反转粘贴/转换小写</Item>
+		<Item English_Text = "Copy Selection" ID = "116">选择复制</Item>
+		<Item English_Text = "Force Close Window" ID = "117">强制关闭窗口</Item>
 	</Ditto_Options_Quick_Paste_Keyboard>
-    
+
 </Ditto_Language_File>
